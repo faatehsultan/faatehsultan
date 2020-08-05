@@ -9,5 +9,4 @@ I am a student developer from Lahore, Pakistan.
   Facebook: facebook.com/faatehsultan.kazmi
   Linkedin: linkedin.com/in/faatehsultankazmi
   Instagram: instagram.com/faateh.sultan
-  
-  [![Syed Faateh Sultan Kazmi's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/faatehsultan)
+  Dev: dev.to/faatehsultan
