@@ -10,10 +10,10 @@ I am a student developer from Lahore, Pakistan.
 
 **Email** faatehsultan30@gmail.com
 
-**Facebook** facebook.com/faatehsultan.kazmi
+**Facebook** www.facebook.com/faatehsultan.kazmi
 
-**Linkedin** linkedin.com/in/faatehsultankazmi
+**Linkedin** www.linkedin.com/in/faatehsultankazmi
 
-**Instagram** instagram.com/faateh.sultan
+**Instagram** www.instagram.com/faateh.sultan
 
-**Dev** dev.to/faatehsultan
+**Dev** www.dev.to/faatehsultan
