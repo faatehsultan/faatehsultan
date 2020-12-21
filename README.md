@@ -3,7 +3,7 @@
 I am a student developer from Lahore, Pakistan.
 - 🔭 I’m currently working on multiple projects
 - 🌱 I’m currently enrolled in *BS Computer Science* at University of the Punjab, Lahore
-- 🌱 I’m currently learning Front-End Development with React
+- 🌱 I’m currently learning Front-End Development with React and Mobile Development with Flutter
 - 📫 How to reach me: 
 
 [![WEBSITE](https://github.com/faatehsultan/faatehsultan/blob/master/icons/apps_web_browser_15742.png)](https://faatehsultan.github.io)
