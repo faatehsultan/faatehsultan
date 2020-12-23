@@ -22,7 +22,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 
 
-###   ![html](https://github.com/faatehsultan/faatehsultan/blob/master/assets/find-resume.png)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faatehsultan&layout=compact&langs_count=10)
+###   [![html](https://github.com/faatehsultan/faatehsultan/blob/master/assets/find-resume.png)](https://drive.google.com/file/d/1krx2GbUUHwOY3zBUvTZnnAlAnk9YFqlL/view?usp=sharing)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faatehsultan&layout=compact&langs_count=10)
 
 -----
 
