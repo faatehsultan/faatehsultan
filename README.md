@@ -1,15 +1,35 @@
-## SYED FAATEH SULTAN KAZMI
+![Faateh Sultan](https://github.com/faatehsultan/faatehsultan/blob/master/assets/header.png)
 
-I am a student developer from Lahore, Pakistan.
-- 🔭 I’m currently working on multiple projects
-- 🌱 I’m currently enrolled in *BS Computer Science* at University of the Punjab, Lahore
-- 🌱 I’m currently learning Front-End Development with React and Mobile Development with Flutter
-- 📫 How to reach me: 
+Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project. I also like to contribute on open source projects and you can approach me for contributions. 
 
-[![WEBSITE](https://github.com/faatehsultan/faatehsultan/blob/master/icons/apps_web_browser_15742.png)](https://faatehsultan.github.io)
-[![GMAIL](https://github.com/faatehsultan/faatehsultan/blob/master/icons/1492608052-16-gmail-email-mail-communication-message-service_83380.png)](mailto:faatehsultan30@gmail.com) 
-[![FACEBOOK](https://github.com/faatehsultan/faatehsultan/blob/master/icons/1495494673-jd04_84463.png)](https://facebook.com/faatehsultan.kazmi)
-[![INSTAGRAM](https://github.com/faatehsultan/faatehsultan/blob/master/icons/1495494681-jd08_84480.png)](https://instagram.com/faateh.sultan)
-[![LINKEDIN](https://github.com/faatehsultan/faatehsultan/blob/master/icons/linkedin_icon-icons.com_65929.png)](https://linkedin.com/in/faatehsultankazmi)
-[![FREECODECAMP](https://github.com/faatehsultan/faatehsultan/blob/master/icons/freecodecamp_logo_icon_145267.png)](https://www.freecodecamp.org/faatehsultan) 
-[![DEV](https://github.com/faatehsultan/faatehsultan/blob/master/icons/dev_to_icon_136699.png)](https://dev.to/faatehsultan)
+----
+
+### Get in touch with me
+
+​	 	       	 [![website](https://github.com/faatehsultan/faatehsultan/blob/master/assets/www.png)](http://faatehsultan.github.io)       [![facebook](https://github.com/faatehsultan/faatehsultan/blob/master/assets/facebook.png)](http://facebook.com/faatehsultan.kazmi)       [![linkedin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png)](https://www.linkedin.com/in/faatehsultankazmi)       [![instagram](https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png)](https://instagram.com/faateh.sultan)       [![twitter](https://github.com/faatehsultan/faatehsultan/blob/master/assets/twitter.png)](https://twitter.com/faatehsultan)       [![messenger](https://github.com/faatehsultan/faatehsultan/blob/master/assets/messenger.png)](https://m.me/faatehsultankazmi)       [![dev](https://github.com/faatehsultan/faatehsultan/blob/master/assets/dev.png)](https://dev.to/faatehsultan) 
+
+----
+
+### Completed the Hacktoberfest 2020 
+
+​        [![Hacktoberfest 2020](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)](https://dev.to/faatehsultan)                              ![Faateh Sultan's github stats](https://github-readme-stats.vercel.app/api?username=faatehsultan&count_private=true&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true)
+
+----
+
+### Skills
+
+​	 ![html](https://github.com/faatehsultan/faatehsultan/blob/master/assets/html.png)       ![css](https://github.com/faatehsultan/faatehsultan/blob/master/assets/css.png)        ![js](https://github.com/faatehsultan/faatehsultan/blob/master/assets/js.png)       ![java](https://github.com/faatehsultan/faatehsultan/blob/master/assets/java.png)        ![cpp](https://github.com/faatehsultan/faatehsultan/blob/master/assets/cpp.png)         ![bootstrap](https://github.com/faatehsultan/faatehsultan/blob/master/assets/bootstrap.png)        ![sql](https://github.com/faatehsultan/faatehsultan/blob/master/assets/sql.png)
+
+
+
+###   ![html](https://github.com/faatehsultan/faatehsultan/blob/master/assets/find-resume.png)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faatehsultan&layout=compact&langs_count=10)
+
+-----
+
+### Learning
+
+​      ![react](https://github.com/faatehsultan/faatehsultan/blob/master/assets/react.png)        ![flutter](https://github.com/faatehsultan/faatehsultan/blob/master/assets/flutter.png)         ![kotlin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/kotlin.png)                              
+
+----
+
+> ##                             ***The Most Dangerous Thing You Can Do In Life is To Play It Safe!***
