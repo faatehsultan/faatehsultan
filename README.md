@@ -26,7 +26,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faatehsultan&layout=compact&langs_count=10) ![eat-sleep-repeat](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif) ![harry](https://media.giphy.com/media/mz1kJeDVueKC4/giphy.gif)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faatehsultan&layout=compact&langs_count=10) ![eat-sleep-repeat](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif) <img src="https://media.giphy.com/media/mz1kJeDVueKC4/giphy.gif" width="160px">
 
 ---
 
