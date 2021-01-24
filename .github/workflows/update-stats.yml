@@ -9,11 +9,11 @@ on:
 jobs:
   update-readme:
     name: Profile Readme Development Stats
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-16.04
     steps:
       - uses: anmol098/waka-readme-stats@V3
         with:
           GH_TOKEN:  ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY:  ${{ secrets.WAKATIME_API_KEY }}
           SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: True
+          SHOW_LINES_OF_CODE: "True"
