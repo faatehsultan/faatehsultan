@@ -34,6 +34,11 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 ​      ![react](https://github.com/faatehsultan/faatehsultan/blob/master/assets/react.png)        ![flutter](https://github.com/faatehsultan/faatehsultan/blob/master/assets/flutter.png)         ![kotlin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/kotlin.png)                              
 
-----
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 > ##                             ***The Most Dangerous Thing You Can Do In Life is To Play It Safe!***
