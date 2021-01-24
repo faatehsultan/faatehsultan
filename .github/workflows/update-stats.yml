@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: Profile Readme Development Stats
-    runs-on: ubuntu-16.04
+    runs-on: windows-2019
     steps:
       - uses: anmol098/waka-readme-stats@V3
         with:
