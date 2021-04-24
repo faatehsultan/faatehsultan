@@ -43,13 +43,13 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 **🐱 My Github Data** 
 
-> 🏆 263 Contributions in the Year 2021
+> 🏆 264 Contributions in the Year 2021
  > 
 > 📦 57.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 15 Private Repositories  
  > 
