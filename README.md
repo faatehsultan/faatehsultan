@@ -37,13 +37,13 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230359%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-233775%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 255 Contributions in the Year 2021
+> 🏆 262 Contributions in the Year 2021
  > 
 > 📦 57.9 kB Used in Github's Storage 
  > 
@@ -100,11 +100,11 @@ Windows                  71 hrs 51 mins      ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     10 repos            █████████░░░░░░░░░░░░░░░░   37.04% 
-C++                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+HTML                     12 repos            ██████████░░░░░░░░░░░░░░░   41.38% 
+C++                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
 
 ```
 
