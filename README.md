@@ -45,7 +45,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 > 🏆 377 Contributions in the Year 2021
  > 
-> 📦 58.3 kB Used in Github's Storage 
+> 📦 58.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
