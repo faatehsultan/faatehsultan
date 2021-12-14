@@ -37,7 +37,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-422%20Thousand%20lines%20of%20code-blue)
 
@@ -45,13 +45,13 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 > 🏆 715 Contributions in the Year 2021
  > 
-> 📦 89.7 kB Used in GitHub's Storage 
+> 📦 89.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 52 Public Repositories 
  > 
-> 🔑 23 Private Repositories  
+> 🔑 24 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -82,18 +82,18 @@ Sunday       96 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Other                    29 hrs 35 mins      ███████████████████░░░░░░   77.19% 
-JavaScript               5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
-Java                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
-CSS                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
-SCSS                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38%
+Other                    32 hrs 25 mins      ███████████████████░░░░░░   77.02% 
+JavaScript               6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
+Java                     2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
+SCSS                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
+CSS                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
 
 🔥 Editors: 
-Browser                  29 hrs 31 mins      ███████████████████░░░░░░   77.03% 
-VS Code                  8 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   22.97%
+Browser                  32 hrs 20 mins      ███████████████████░░░░░░   76.82% 
+VS Code                  9 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   23.18%
 
 💻 Operating System: 
-Windows                  38 hrs 20 mins      █████████████████████████   100.0%
+Windows                  42 hrs 5 mins       █████████████████████████   100.0%
 
 ```
 
@@ -114,7 +114,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faatehsultan/faatehsultan/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
 
 ---
