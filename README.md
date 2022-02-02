@@ -43,7 +43,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 **🐱 My GitHub Data** 
 
-> 🏆 128 Contributions in the Year 2022
+> 🏆 127 Contributions in the Year 2022
  > 
 > 📦 94.7 kB Used in GitHub's Storage 
  > 
@@ -82,13 +82,13 @@ Sunday       97 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Other                    51 hrs 20 mins      █████████████████████████   100.0%
+Other                    46 hrs 50 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  51 hrs 20 mins      █████████████████████████   100.0%
+Browser                  46 hrs 50 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  51 hrs 20 mins      █████████████████████████   100.0%
+Windows                  46 hrs 50 mins      █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +109,7 @@ Python                   5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faatehsultan/faatehsultan/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2022 19:24:22 UTC
+ Last Updated on 02/02/2022 19:23:34 UTC
 <!--END_SECTION:waka-->
 
 ---
