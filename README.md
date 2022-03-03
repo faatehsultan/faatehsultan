@@ -37,7 +37,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-494%20Thousand%20lines%20of%20code-blue)
 
@@ -45,7 +45,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 > 🏆 229 Contributions in the Year 2022
  > 
-> 📦 105.9 kB Used in GitHub's Storage 
+> 📦 106.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,13 +82,13 @@ Sunday       101 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Other                    40 hrs 22 mins      █████████████████████████   100.0%
+Other                    35 hrs 8 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  40 hrs 22 mins      █████████████████████████   100.0%
+Browser                  35 hrs 8 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  40 hrs 22 mins      █████████████████████████   100.0%
+Windows                  35 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +109,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faatehsultan/faatehsultan/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/03/2022 19:22:42 UTC
+ Last Updated on 03/03/2022 19:23:10 UTC
 <!--END_SECTION:waka-->
 
 ---
