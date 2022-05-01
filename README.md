@@ -37,13 +37,13 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-600%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-593%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 543 Contributions in the Year 2022
+> 🏆 548 Contributions in the Year 2022
  > 
 > 📦 120.5 kB Used in GitHub's Storage 
  > 
@@ -57,21 +57,21 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 ```text
 🌞 Morning    50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
-🌆 Daytime    216 commits    ██████░░░░░░░░░░░░░░░░░░░   27.41% 
-🌃 Evening    279 commits    ████████░░░░░░░░░░░░░░░░░   35.41% 
-🌙 Night      243 commits    ███████░░░░░░░░░░░░░░░░░░   30.84%
+🌆 Daytime    214 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
+🌃 Evening    278 commits    ████████░░░░░░░░░░░░░░░░░   35.28% 
+🌙 Night      246 commits    ███████░░░░░░░░░░░░░░░░░░   31.22%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       125 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-Tuesday      103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-Wednesday    124 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
+Tuesday      101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+Wednesday    122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
 Thursday     116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
 Friday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
-Saturday     123 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
-Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
+Saturday     122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+Sunday       124 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.74%
 
 ```
 
@@ -109,7 +109,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faatehsultan/faatehsultan/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 19:26:54 UTC
+ Last Updated on 01/05/2022 19:26:24 UTC
 <!--END_SECTION:waka-->
 
 ---
