@@ -47,7 +47,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 > 🏆 663 Contributions in the Year 2022
  > 
-> 📦 123.1 kB Used in GitHub's Storage 
+> 📦 123.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -111,7 +111,7 @@ Python                   6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faatehsultan/faatehsultan/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 19:24:56 UTC
+ Last Updated on 23/05/2022 19:25:22 UTC
 <!--END_SECTION:waka-->
 
 ---
