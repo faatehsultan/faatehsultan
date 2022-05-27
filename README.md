@@ -39,7 +39,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-669%20Thousand%20lines%20of%20code-blue)
 
@@ -47,7 +47,7 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 
 > 🏆 681 Contributions in the Year 2022
  > 
-> 📦 130.7 kB Used in GitHub's Storage 
+> 📦 130.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -111,7 +111,7 @@ C++                      6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faatehsultan/faatehsultan/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/05/2022 19:26:59 UTC
+ Last Updated on 27/05/2022 19:27:26 UTC
 <!--END_SECTION:waka-->
 
 ---
