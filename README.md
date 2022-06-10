@@ -39,15 +39,15 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-674%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-675%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 719 Contributions in the Year 2022
+> 🏆 730 Contributions in the Year 2022
  > 
-> 📦 133.0 kB Used in GitHub's Storage 
+> 📦 133.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -58,22 +58,22 @@ Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
-🌆 Daytime    243 commits    ███████░░░░░░░░░░░░░░░░░░   28.52% 
-🌃 Evening    286 commits    ████████░░░░░░░░░░░░░░░░░   33.57% 
-🌙 Night      270 commits    ████████░░░░░░░░░░░░░░░░░   31.69%
+🌞 Morning    51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.98% 
+🌆 Daytime    244 commits    ███████░░░░░░░░░░░░░░░░░░   28.6% 
+🌃 Evening    283 commits    ████████░░░░░░░░░░░░░░░░░   33.18% 
+🌙 Night      275 commits    ████████░░░░░░░░░░░░░░░░░   32.24%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       152 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
-Tuesday      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-Wednesday    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
-Thursday     119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
-Friday       92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
-Saturday     123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Sunday       153 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.96%
+Monday       150 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.58% 
+Tuesday      103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+Thursday     119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
+Saturday     123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
+Sunday       153 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.94%
 
 ```
 
@@ -111,7 +111,7 @@ C++                      6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/faatehsultan/faatehsultan/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 19:26:50 UTC
+ Last Updated on 10/06/2022 19:24:02 UTC
 <!--END_SECTION:waka-->
 
 ---
