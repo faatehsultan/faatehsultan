@@ -1,119 +1,42 @@
-![Faateh Sultan](https://github.com/faatehsultan/faatehsultan/blob/master/assets/header.png)
+<h1 align="center">Hi 👋, I'm Syed Faateh Sultan Kazmi</h1>
+<h3 align="center">Software Engineer @ Arbisoft Pvt. Ltd.</h3>
 
-Hi, my name is *Syed Faateh Sultan Kazmi*, a student developer from Pakistan. I am a junior at [**PUCIT**](http://pucit.edu.pk) Lahore. I work on different web projects as a freelancer. You can contact me for queries regarding any project. I also like to contribute on open source projects and you can approach me for contributions. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faatehsultan&label=Profile%20views&color=0e75b6&style=flat" alt="faatehsultan" /> </p>
 
-----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faatehsultan" alt="faatehsultan" /></a> </p>
 
-## Get in touch with me
+<p align="left"> <a href="https://twitter.com/faatehsultan" target="blank"><img src="https://img.shields.io/twitter/follow/faatehsultan?logo=twitter&style=for-the-badge" alt="faatehsultan" /></a> </p>
 
-​	 	       	 [![website](https://github.com/faatehsultan/faatehsultan/blob/master/assets/www.png)](http://faatehsultan.github.io)       [![facebook](https://github.com/faatehsultan/faatehsultan/blob/master/assets/facebook.png)](http://facebook.com/faatehsultan.kazmi)       [![linkedin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/linkedin.png)](https://www.linkedin.com/in/faatehsultankazmi)       [![instagram](https://github.com/faatehsultan/faatehsultan/blob/master/assets/instagram.png)](https://instagram.com/faateh.sultan)       [![twitter](https://github.com/faatehsultan/faatehsultan/blob/master/assets/twitter.png)](https://twitter.com/faatehsultan)       [![messenger](https://github.com/faatehsultan/faatehsultan/blob/master/assets/messenger.png)](https://m.me/faatehsultankazmi)       [![dev](https://github.com/faatehsultan/faatehsultan/blob/master/assets/dev.png)](https://dev.to/faatehsultan) 
+- 🔭 I’m currently working with **Django & MERN**
 
-----
+- 🌱 I’m currently learning **Django**
 
-### Completed the Hacktoberfest 2020 
+- 👨‍💻 All of my projects are available at [https://faatehsultan.github.io](https://faatehsultan.github.io)
 
-​        [![Hacktoberfest 2020](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)](https://dev.to/faatehsultan)                              ![Faateh Sultan's github stats](https://github-readme-stats.vercel.app/api?username=faatehsultan&count_private=true&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true)
+- 📝 I regularly write articles on [https://medium.com/@faatehsultan](https://medium.com/@faatehsultan)
 
-----
+- 💬 Ask me about **React, MERN, Python**
 
-## Skills
+- 📫 How to reach me **faatehsultan30@gmail.com**
 
-​	 ![html](https://github.com/faatehsultan/faatehsultan/blob/master/assets/html.png)       ![css](https://github.com/faatehsultan/faatehsultan/blob/master/assets/css.png)        ![js](https://github.com/faatehsultan/faatehsultan/blob/master/assets/js.png)       ![java](https://github.com/faatehsultan/faatehsultan/blob/master/assets/java.png)        ![cpp](https://github.com/faatehsultan/faatehsultan/blob/master/assets/cpp.png)         ![bootstrap](https://github.com/faatehsultan/faatehsultan/blob/master/assets/bootstrap.png)        ![sql](https://github.com/faatehsultan/faatehsultan/blob/master/assets/sql.png)
+- ⚡ Fun fact **I love reading books a lot <3**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/faatehsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faatehsultan" height="30" width="40" /></a>
+<a href="https://twitter.com/faatehsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faatehsultan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faatehsultankazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faatehsultankazmi" height="30" width="40" /></a>
+<a href="https://fb.com/faatehsultan.kazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faatehsultan.kazmi" height="30" width="40" /></a>
+<a href="https://instagram.com/faatehsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faatehsultan" height="30" width="40" /></a>
+<a href="https://hashnode.com/@faatehsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@faatehsultan" height="30" width="40" /></a>
+<a href="https://medium.com/@faatehsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faatehsultan" height="30" width="40" /></a>
+</p>
 
-[![html](https://github.com/faatehsultan/faatehsultan/blob/master/assets/find-resume.png)](https://app.flowcv.io/resume-feedback/ORsCSRna2eDs)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faatehsultan&show_icons=true&locale=en&layout=compact" alt="faatehsultan" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faatehsultan&layout=compact&langs_count=10) <img src="https://media.giphy.com/media/mz1kJeDVueKC4/giphy.gif" width="160px"> <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="160px">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faatehsultan&show_icons=true&locale=en" alt="faatehsultan" /></p>
 
----
-
-## Learning
-
-​      ![react](https://github.com/faatehsultan/faatehsultan/blob/master/assets/react.png)        ![flutter](https://github.com/faatehsultan/faatehsultan/blob/master/assets/flutter.png)         ![kotlin](https://github.com/faatehsultan/faatehsultan/blob/master/assets/kotlin.png)                              
-
----
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 897 Contributions in the Year 2022
- > 
-> 📦 133.7 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 35 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
-🌆 Daytime    230 commits    ██████░░░░░░░░░░░░░░░░░░░   26.93% 
-🌃 Evening    297 commits    ████████░░░░░░░░░░░░░░░░░   34.78% 
-🌙 Night      272 commits    ████████░░░░░░░░░░░░░░░░░   31.85%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       149 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
-Tuesday      116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-Wednesday    99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-Thursday     93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.89% 
-Friday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-Saturday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
-Sunday       188 commits    █████░░░░░░░░░░░░░░░░░░░░   22.01%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               29 repos            █████████░░░░░░░░░░░░░░░░   37.18% 
-HTML                     20 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/faatehsultan/faatehsultan/master/charts/bar_graph.png) 
-
-
- Last Updated on 06/07/2022 19:24:19 UTC
-<!--END_SECTION:waka-->
-
----
-
-> ##                             ***The Most Dangerous Thing You Can Do In Life is To Play It Safe!***
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faatehsultan&" alt="faatehsultan" /></p>
