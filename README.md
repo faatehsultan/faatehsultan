@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Faateh Sultan Kazmi</h1>
-<h3 align="center">Software Engineer @ Arbisoft Pvt. Ltd.</h3>
+<h3 align="center">Software Engineer @ Educative.io</h3>
 
 
 
