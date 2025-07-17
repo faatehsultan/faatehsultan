@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Syed Faateh Sultan Kazmi</h1>
-<h3 align="center">Software Engineer @ Educative.io</h3>
+<h3 align="center">Software Engineer 👨🏻‍💻</h3>
 
 
 
 
 
 # 💫 About Me:
-🔭 I’m working as a Full Stack Software Engineer.<br>👨🏻‍💻 My primary stack is Django and React.<br>🤝 I’m open to work on projects having an impact.<br>🌱 I’m currently learning advanced react native.<br>⚡ I love to read :)
+🔭 I’m a Full Stack Software Engineer.<br>👨🏻‍💻 React, Python, AI, I got em all.<br>🤝 I’m open to work on projects having an impact.<br>🌱 I’m currently working on building gen AI solutions.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=faatehsultan&icon=9&color=8)](https://visitcount.itsvg.in)
